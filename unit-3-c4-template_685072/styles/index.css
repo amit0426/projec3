@@ -1,0 +1,44 @@
+#navbar{
+    display: flex;
+    justify-content: space-around;
+    padding: auto;
+    background-color: bisque;
+
+}
+
+#search_input{
+    height: 30px;
+    width: 70%;
+    border-radius: 20px;
+    margin-top: 20px;
+
+}
+
+#body{
+    margin-top: 5%;
+    display: flex;
+    /* justify-content: space-around; */
+
+}
+
+#sidebar{
+    width: 100px;
+
+    text-align: center;
+    background-color: bisque;
+}
+#results>div{
+    display: flex;
+    text-align: center;
+    justify-content: space-around;
+    border: 1px solid black;
+}
+img{
+    height: 100%;
+    width: 100%;
+
+}
+#au{
+    text-align: center;
+    border: 1px solid black;
+}
